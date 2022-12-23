@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **DevOps, Flutter, Figma**
 
-- 👨‍💻 All of my projects are available at [https://soumyadev-portfolio-1.netlify.app/](https://soumyadev-portfolio-1.netlify.app/)
+- 👨‍💻 My portfolio [https://soumyadev-portfolio-1.netlify.app/](https://soumyadev-portfolio-1.netlify.app/)
 
 - 📫 How to reach me **soumyadev1912@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Y5tVzM9tNqDZPJkujWCt8SziemF2jE3e/view?usp=sharing](https://drive.google.com/file/d/1Y5tVzM9tNqDZPJkujWCt8SziemF2jE3e/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1Y5tVzM9tNqDZPJkujWCt8SziemF2jE3e/view?usp=sharing](https://drive.google.com/file/d/1Y5tVzM9tNqDZPJkujWCt8SziemF2jE3e/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
