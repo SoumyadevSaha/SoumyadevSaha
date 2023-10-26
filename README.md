@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **soumyadev1912@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1Y5tVzM9tNqDZPJkujWCt8SziemF2jE3e/view?usp=sharing](https://drive.google.com/file/d/1Y5tVzM9tNqDZPJkujWCt8SziemF2jE3e/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1leXHGlqmFbcoNos29ZStTQi31pUHhjEV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
